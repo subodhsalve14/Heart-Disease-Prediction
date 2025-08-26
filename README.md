@@ -5,7 +5,7 @@ This project aims to predict the likelihood of a patient having heart disease ba
 
 ## 🚀 Live Demo
 You can interact with the live model here:
-Heart Disease Prediction App
+http://heartdiseasepredictionusingml.streamlit.app/
 
 ## ✨ Features
 Data Preprocessing & Cleaning: Handles missing values and prepares the data for model training.
